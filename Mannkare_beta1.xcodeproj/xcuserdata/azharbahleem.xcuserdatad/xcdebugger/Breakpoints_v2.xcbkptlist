@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "91A81C8D-7E50-4BDA-A3F9-4255978ABC8A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B0B626B-59DD-41AD-A5B1-CB08E70E5A8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SweaterRecipeApp/Models/Header.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "5B0B626B-59DD-41AD-A5B1-CB08E70E5A8D - a00c4b866667a92f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in SweaterRecipeApp.Header.body.getter : some"
+                  moduleName = "SweaterRecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharbahleem/Desktop/SweaterRecipeApp/SweaterRecipeApp/Models/Header.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "5B0B626B-59DD-41AD-A5B1-CB08E70E5A8D - 124171d04c635d44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.frame(minWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxWidth: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, minHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, idealHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, maxHeight: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in SweaterRecipeApp.Header.body.getter : some"
+                  moduleName = "SweaterRecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharbahleem/Desktop/SweaterRecipeApp/SweaterRecipeApp/Models/Header.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "5B0B626B-59DD-41AD-A5B1-CB08E70E5A8D - 9952975ccb2c1cf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SweaterRecipeApp.Header.body.getter : some"
+                  moduleName = "SweaterRecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharbahleem/Desktop/SweaterRecipeApp/SweaterRecipeApp/Models/Header.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "5B0B626B-59DD-41AD-A5B1-CB08E70E5A8D - b6890efdcbc9359e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.background&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, ignoresSafeAreaEdges: SwiftUI.Edge.Set) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in SweaterRecipeApp.Header.body.getter : some"
+                  moduleName = "SweaterRecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharbahleem/Desktop/SweaterRecipeApp/SweaterRecipeApp/Models/Header.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8FCC8DE-D3D6-49D2-A14D-7219B3ED0293"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SweaterRecipeApp/Views/LikesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C8FCC8DE-D3D6-49D2-A14D-7219B3ED0293 - 6c58548f09692b98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SweaterRecipeApp.Product&gt;, Foundation.UUID, SweaterRecipeApp.LikeRow&gt;, SwiftUI.Text&gt; in SweaterRecipeApp.LikesView.body.getter : some"
+                  moduleName = "SweaterRecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharbahleem/Desktop/SweaterRecipeApp/SweaterRecipeApp/Views/LikesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "788">
+               </Location>
+               <Location
+                  uuid = "C8FCC8DE-D3D6-49D2-A14D-7219B3ED0293 - 6c58548f09692a90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SweaterRecipeApp.Product&gt;, Foundation.UUID, SweaterRecipeApp.LikeRow&gt;, SwiftUI.Text&gt; in SweaterRecipeApp.LikesView.body.getter : some"
+                  moduleName = "SweaterRecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharbahleem/Desktop/SweaterRecipeApp/SweaterRecipeApp/Views/LikesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "C8FCC8DE-D3D6-49D2-A14D-7219B3ED0293 - 95fb18ac8fb6407f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SweaterRecipeApp.Product&gt;, Foundation.UUID, SweaterRecipeApp.LikeRow&gt;, SwiftUI.Text&gt; in SweaterRecipeApp.LikesView.body.getter : some"
+                  moduleName = "SweaterRecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharbahleem/Desktop/Code/SweaterRecipeApp/SweaterRecipeApp/Views/LikesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "788">
+               </Location>
+               <Location
+                  uuid = "C8FCC8DE-D3D6-49D2-A14D-7219B3ED0293 - 95fb18ac8fb6407f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SweaterRecipeApp.Product&gt;, Foundation.UUID, SweaterRecipeApp.LikeRow&gt;, SwiftUI.Text&gt; in SweaterRecipeApp.LikesView.body.getter : some"
+                  moduleName = "SweaterRecipeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/azharbahleem/Desktop/Code/SweaterRecipeApp/SweaterRecipeApp/Views/LikesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "888">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
